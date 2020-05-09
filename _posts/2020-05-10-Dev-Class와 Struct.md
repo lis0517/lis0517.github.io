@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: "Dev : Class와 Struct"
 categories:
   - Dev
