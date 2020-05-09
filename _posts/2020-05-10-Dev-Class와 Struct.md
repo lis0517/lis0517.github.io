@@ -1,7 +1,6 @@
 ---
 layout: Post
 title: "Dev : Class와 Struct"
-excerpt_separator: "<!--more-->"
 categories:
   - Dev
 tags:
