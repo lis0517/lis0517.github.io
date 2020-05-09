@@ -1,16 +1,16 @@
 ---
-layout: Dev
+layout: Post
 title: "Dev : Class와 Struct"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - Dev
 tags:
   - C++
   - C#
   - Knowledge
 ---
 
-###Class와 Struct 차이에 대한 공부   
+#Class와 Struct 차이에 대한 공부   
  
  struct와 class의 차이는 있는 걸까?   
 아마 이 질문을 C++에서 받게된다면 C++에서 C나 C#에서의 struct를 생각하게 해 오답을 말하게 하는 함정이 아닐까 생각한다.   
