@@ -1,7 +1,13 @@
 ---
 layout: page
-title: 关于
-permalink: /about/
+title: About
+sidebar_link: true
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p>
+
+To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter.
