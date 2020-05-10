@@ -3,16 +3,16 @@ layout : base
 title: "[Dev] class와 struct"
 
 categories:
-  -Dev
+  - Dev
 tags:
   - C++
   - C#
   - Knowledge
 ---
 
-## Class와 Struct 차이에 대한 공부   
+## Class와 Struct 차이에 대한 공부    
  
- __struct와 class의 차이는 있는 걸까?__   
+ __struct와 class의 차이는 있는 걸까?__    
 아마 이 질문을 C++에서 받게된다면 C++에서 C나 C#에서의 struct를 생각하게 해 오답을 말하게 하는 함정이 아닐까 생각한다.   
 C++에서 struct와 class의 차이는 기본 접근 제어 지시자가 public, private라는 것 밖에 없다.   
 메모리 또한 struct나 class는 따로 new를 해주지않는다면 스택 메모리에 올라간다.   
