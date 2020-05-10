@@ -2,11 +2,11 @@
 title: "[Dev] class와 struct"
 
 categories:
-   -Dev
+  -Dev
 tags:
-   - C++
-   - C#
-   - Knowledge
+  - C++
+  - C#
+  - Knowledge
 ---
 
 #Class와 Struct 차이에 대한 공부   
