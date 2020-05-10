@@ -1,6 +1,6 @@
 ---
-layout : base
-title: "[Dev] class와 struct"
+layout: post
+title: "Dev : class와 struct"
 
 categories:
   - Dev
