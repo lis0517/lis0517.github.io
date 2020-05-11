@@ -20,6 +20,7 @@ __vector__ 관련 레퍼런스는 책이나 검색하면 더 잘나올 것이므
 vector<vector<int>> v(y, vector<int>(x, initialized_value));  
 ```  
 여기서 initialized_value에 들어갈 값은 생략해도 된다.  
+
 ***  
 
 #### 3차원 배열 초기화  
