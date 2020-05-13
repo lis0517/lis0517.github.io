@@ -4,10 +4,12 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+2013년부터 게임 프로그래머 한 우물만 파는 중입니다.  
+군에서 전역한 2016년부터 노력이 조금씩 뿌려진 공부를 하기시작했으며  
+유니티 엔진외에도 언리얼, 유니진 엔진에 관심을 가지는 중입니다.  
+  
+학교 졸업 이후에는 창업팀에서 일해 게임을 출시해서 서비스를 진행했지만 2개월 뒤  
+퍼블리셔 측에서 기대했던만큼 DAU가 나오지않아 서비스 종료를 했습니다.  
+  
+현재는 부족한 알고리즘 공부와 전공 공부를 진행 중이며 그동안 진행한  
+여러 프로젝트는 __포트폴리오__에 정리해두었습니다.  
