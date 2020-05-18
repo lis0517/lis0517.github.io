@@ -11,7 +11,7 @@ tags:
 
 ## Mini Builder  
 ***    
-<span style="color:gray">Ang, 2018 ~ Nov, 2018</span>  
+<span style="color:gray">Aug, 2018 ~ Nov, 2018</span>  
 
 ![title](https://drive.google.com/uc?id=1u7BtYeLcSjEPidP4Et5GVFjjxqLfieML)
 
