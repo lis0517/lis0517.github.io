@@ -20,7 +20,7 @@ tags:
   
 ### 코드  
    
-```C#
+``` c++
 
 var v = targetPosition.position - transform.position;
 float radian = Mathf.Atan2(v.x, v.z);
@@ -44,4 +44,4 @@ degree로 변환하여 Quaternion 변환에 사용한다.
   
 ### 실행  
   
-[!회전](https://drive.google.com/uc?id=1UOZuq4LJpYxXSJqeWZF8IfuHw8uv2nLM)
+![회전](https://drive.google.com/uc?id=1UOZuq4LJpYxXSJqeWZF8IfuHw8uv2nLM)
